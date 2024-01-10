@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T11:17:01.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="goLrAsF7EnamSeBRqIGL" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T11:18:34.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Z_JjNGzoGT4miU0NqXJk" version="22.1.17" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1682" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#E8E8E8" math="0" shadow="0">
+    <mxGraphModel dx="2396" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#E8E8E8" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -236,7 +236,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3p18UKViIjV5cALwLCZ-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p3p18UKViIjV5cALwLCZ-93" target="p3p18UKViIjV5cALwLCZ-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="605" />
+              <mxPoint x="190" y="510" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="p3p18UKViIjV5cALwLCZ-129" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="1070" y="280" width="480" height="150" as="geometry" />
@@ -452,6 +457,9 @@
         </mxCell>
         <mxCell id="EHKatqSYL1yP1ZYXGWKF-16" value="HubSpot Properties" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1435.4842255661276" y="840" width="190.51577443387188" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QywfPEKZwVWw6Xx-1mEO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p3p18UKViIjV5cALwLCZ-91" target="p3p18UKViIjV5cALwLCZ-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
